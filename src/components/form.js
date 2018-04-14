@@ -36,4 +36,4 @@ class Form extends React.Component {
   }
 }
 
-export default connect(null, mapDispatchToProps)(Form);;
+export default connect(null, mapDispatchToProps)(Form);

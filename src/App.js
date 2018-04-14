@@ -6,7 +6,7 @@ import Form from './components/form';
 export default
 class App extends React.Component {
   render() {
-    return(
+  return(
       <div>
         <TodoList />
         <Form />
